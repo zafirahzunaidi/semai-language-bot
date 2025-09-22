@@ -1,0 +1,938 @@
+[
+    {
+        "semai": "abek",
+        "word_class": "kata nama",
+        "malay": "bapa;ayah;ayahanda;abah;pasangan kepada ibu;orang lelaki yang sudah mempunyai anak",
+        "english": "father",
+        "semai_sentence": "\"Abek eng iumur ya 70 tahut, tapi iberog lekat sihat ru kuat,\" Wak Melah kipasal nu ikekawat kerjak mase naibesimbang.",
+        "malay_sentence": "\"Bapa saya sudah berumur 70 tahun, tetapi tubuhnya masih sihat dan kuat,\" Wak Melah memberitahu kepada rakan-rakan sekerjanya semasa mereka bersembang.",
+        "english_sentence": "\"My father is 70 years old, but his body is still healthy and strong,\" Wak Melah told her colleagues as they chatted."
+    },
+    {
+        "semai": "aderas",
+        "word_class": "kata keterangan",
+        "malay": "cepat;pantas;dengan secepat yang mungkin;lekas",
+        "english": "fast;quick;as fast as possible",
+        "semai_sentence": "\"Cip aderas gek! Iarik ya kaha-manik,\" Wak Mia kiurok nu ikenon.",
+        "malay_sentence": "\"Jalan cepat sikit! Hari mahu hujan,\" Wak Mia berkata kepada anaknya.",
+        "english_sentence": "\"Walk a bit faster! It is about to rain,\" Wak Mia said to her daughter."
+    },
+    {
+        "semai": "agok",
+        "word_class": "kata perintah",
+        "malay": "jangan;untuk larangan yang menyatakan tidak boleh",
+        "english": "for prohibition",
+        "semai_sentence": "Mai engrak selalo naibesat, amen hiet nu tempat mai kena panei bejaga diri. Agok hiui tok tentu-tentu.",
+        "malay_sentence": "Orang tua selalu berpesan, jika kita pergi ke tempat orang lain kita harus tahu menjaga diri sendiri. Jangan suka membuat perkara yang tak tentu.",
+        "english_sentence": "The old people always say, if we go to someone else's place we should know how to take care of ourselves. Do not do unnecessary things."
+    },
+    {
+        "semai": "ajar",
+        "word_class": "kata kerja",
+        "malay": "mengajar;membuat seseorang mahir atau tahu tentang sesuatu perkara atau hal",
+        "english": "to teach",
+        "semai_sentence": "Wak Pipi kiajar komputer nu mambek sanget ku ikampug.",
+        "malay_sentence": "Wak Pipi mengajar komputer pada kanak-kanak di kampungnya.",
+        "english_sentence": "Wak Pipi taught computer lessons to the children in her village."
+    },
+    {
+        "semai": "akal",
+        "word_class": "kata nama",
+        "malay": "kerenah;ragam;kelakuan;sikap seseorang;perangai;tingkahlaku",
+        "english": "caprice;whims;vagaries",
+        "semai_sentence": "\"Agok jeoi akal amen haha-joi eng,\" Wak Manja kiurok nu imenang.",
+        "malay_sentence": "\"Jangan banyak kerenah jika kamu mahu mengikut saya,\" Wak Manja berkata kepada adiknya.",
+        "english_sentence": "\"Don't be whimsical if you want to go with me,\" Wak Manja said to her sister."
+    },
+    {
+        "semai": "babeh",
+        "word_class": "kata sifat",
+        "malay": "reput",
+        "english": "rotten;decayed",
+        "semai_sentence": "Betes cener kilet ku jehuk babeh de lembap.",
+        "malay_sentence": "Cendawan kulat tumbuh di kayu yang reput dan lembab.",
+        "english_sentence": "Mushrooms grow on wood that is rotting and moist."
+    },
+    {
+        "semai": "bacet",
+        "word_class": "kata sifat",
+        "malay": "kecil;tidak besar",
+        "english": "small",
+        "semai_sentence": "\"Berog sanget ajeh bacet bernor, tah kinyik ma?\" Wak Pira kiurok nu iamek mase ubai ku hospitel, ubai sueg ha itenek de pai kiperikyos.",
+        "malay_sentence": "\"Badan kanak-kanak tersebut sangat kecil, sakit apa agaknya yang dia alami?\" Wak Pira berkata kepada ibunya semasa mereka berdua berada di hospital bagi melawat kakaknya yang baharu bersalin.",
+        "english_sentence": "\"That child's body is very small, I wonder what kind of illness she has?\" Wak Pira said to her mother when the two of them were at the hospital to visit her sister who had just given birth."
+    },
+    {
+        "semai": "baharok",
+        "word_class": "kata tanya",
+        "malay": "bagaimana",
+        "english": "how",
+        "semai_sentence": "\"Baharok hakenjep adeh neh? Amen lekat harasa pehod, jok nu klinik,\" Bah Jali kiurok nu ikenah.",
+        "malay_sentence": "\"Bagaimana kamu rasa sekarang? Jika masih merasa sakit, jom kita ke klinik,\" Bah Jali berkata kepada isterinya.",
+        "english_sentence": "\"How are you feeling now? If you are still in pain, let's go to clinic,\" Bah Jali said to his wife."
+    },
+    {
+        "semai": "bakat",
+        "word_class": "kata nama",
+        "malay": "parut",
+        "english": "scar",
+        "semai_sentence": "\"Senanget manah entem eng pernah ngluka, ibakat ajeh lei ngraknak hunen,\" Bah Sam kiternyol nu Bah Caca.",
+        "malay_sentence": "\"Semasa saya masih kecil saya pernah terluka, dan parutnya masih ada sehingga saya dewasa sekarang,\" Bah Sam menunjukkan kepada Bah Caca.",
+        "english_sentence": "\"When I was little, I was injured and the scar of that still exists now that I am an adult,\" Bah Sam said, showing it to Bah Caca"
+    },
+    {
+        "semai": "beempok",
+        "word_class": "kata kerja",
+        "malay": "bermimpi",
+        "english": "to dream",
+        "semai_sentence": "Mengot neh Wak Nina kibeempok bikap ya tijik.",
+        "malay_sentence": "Malam tadi Wak Nina bermimpi digigit oleh ular.",
+        "english_sentence": "Last night Wak Nina dreamed she was bitten by a snake."
+    },
+    {
+        "semai": "caceng",
+        "word_class": "kata nama",
+        "malay": "cacing",
+        "english": "worm;earthworm",
+        "semai_sentence": "Cacing adeh selalo bibeh engrat ha tengroj kak.",
+        "malay_sentence": "Cacing selalunya digunakan sebagai umpan untuk memancing ikan.",
+        "english_sentence": "Worms are often used as bait for fishing."
+    },
+    {
+        "semai": "cahya",
+        "word_class": "kata nama",
+        "malay": "cahaya",
+        "english": "light",
+        "semai_sentence": "\"Ku mase jisanget entem, mase ajeh pekseg mong letreg. Ku mase ajeh, cahya peliteleh de kiperlau kateh deg. Jibeh kerjak sekulah jiguna pelite taleh. Engkek hunen ya senang, tapi lekat segat belajar,\" Bah Ngah kiurok nu icecenok.",
+        "malay_sentence": "\"Sewaktu kami masih kecil, belakan eletrik masih belum ada. Pada masa itu, cuma cahaya pelita yang menerangi rumah. Kami menyiapkan kerja sekolah menggunakan cahaya pelita sahaja. Kamu semua sekarang sudah senang, tetapi masih malas belajar,\" Bah Ngah berkata kepada cucu-cucunya.",
+        "english_sentence": "\"When we were little, electricity was still not available. At that time, only the light of the oil lamp illuminated the house. We were doing our homework using only the light from the lamp. It is much easier for you (guys) now, but you are still lazy to study,\" Bah Ngah said to his grandchildren."
+    },
+    {
+        "semai": "cak",
+        "word_class": "kata kerja",
+        "malay": "makan",
+        "english": "to eat",
+        "semai_sentence": "\"Jihnek jik jicak gulei kari pog,\" kenon Bah Ali kiurok nu ilei.",
+        "malay_sentence": "\"Tadi kami memakan kari ayam,\" anak Bah Ali berkata kepadanya.",
+        "english_sentence": "\"Earlier we were eating chicken curry,\" Bah Ali's son said to him."
+    },
+    {
+        "semai": "cedau",
+        "word_class": "kata nama",
+        "malay": "pelangi",
+        "english": "rainbow",
+        "semai_sentence": "Cedau selalojeh mong kihol telas manik.",
+        "malay_sentence": "Pelangi selalunya muncul setelah hujan.",
+        "english_sentence": "A rainbow usually appears after rain."
+    },
+    {
+        "semai": "cukes",
+        "word_class": "kata kerja",
+        "malay": "kacau;gaul",
+        "english": "to stir",
+        "semai_sentence": "Amen huberkep kerisik de bor, cukis jeer ku kuali beket tok berenti.",
+        "malay_sentence": "Kalau mahu dapatkan kerisik yang cantik, kacau kelapa di kuali yang panas tanpa berhenti.",
+        "english_sentence": "If you want to get perfect coconut paste, stir the coconut in the hot pan without stopping."
+    },
+    {
+        "semai": "dabal",
+        "word_class": "kata nama",
+        "malay": "dompet;sejenis beg bersaiz kecil yang digunakan untuk menyimpan wang",
+        "english": "wallet",
+        "semai_sentence": "Dabal Wak Ani nyep mase ku kateh bas.",
+        "malay_sentence": "Dompet Wak Ani hilang semasa di dalam bas.",
+        "english_sentence": "Wak Ani's wallet was lost when she was in the bus."
+    },
+    {
+        "semai": "dahajal",
+        "word_class": "kata kerja",
+        "malay": "memperdajal;gurauan kasar;perlakuan yang menyusahkan orang lain bagi tujuan bergurau",
+        "english": "to prank",
+        "semai_sentence": "Bah Payak kigemar bedahajal ha mai kilek. Tapi amen kena ku ilei, mesti ilei kibelal.",
+        "malay_sentence": "Bah Payak suka memperdajal orang lain. Tetapi jika dilakukan padanya, dia pasti akan marah.",
+        "english_sentence": "Bah Payak likes to play a prank on someone else. However, if the same thing is done to him, he will get angry."
+    },
+    {
+        "semai": "dajis",
+        "word_class": "kata nama",
+        "malay": "tengah hari;waktu lebih kurang pukul 12 siang",
+        "english": "midday;noon",
+        "semai_sentence": "Tepat pukol due belas dajis, Bah Ali ru ikekawat naiet tengroj.",
+        "malay_sentence": "Tepat pukul dua belas tengah hari, Bah Ali dan rakan-rakannya pergi memancing.",
+        "english_sentence": "Exactly at twelve noon, Bah Ali and his friends went fishing."
+    },
+    {
+        "semai": "dalag",
+        "word_class": "kata kerja",
+        "malay": "mengekori",
+        "english": "to follow",
+        "semai_sentence": "Wak Ani kien ikenon cekcip sambel bidalag ya icok ju ikenog.",
+        "malay_sentence": "Wak Ani membawa anaknya berjalan-jalan sambil diekori oleh anjingnya dari belakang.",
+        "english_sentence": "Wak Ani took her child for a walk and her dog followed from behind."
+    },
+    {
+        "semai": "daptar",
+        "word_class": "kata nama",
+        "malay": "daftar;catatan tentang senarai nama (manusia, barang dll yang ditulis secara berurutan)",
+        "english": "register;list",
+        "semai_sentence": "Tenek eng kidaftar muh ikenon ku sekulah tadika.",
+        "malay_sentence": "Kakak saya mendaftar nama anaknya di sekolah tadika.",
+        "english_sentence": "My sister registered her son at the preschool."
+    },
+    {
+        "semai": "eh",
+        "word_class": "kata ganti nama",
+        "malay": "itu;kata petunjuk untuk benda yang agak jauh dari orang yang bercakap",
+        "english": "that",
+        "semai_sentence": "\"Ajih eh ibakol beleg,\" Wak Pia kipeder nu igensir.",
+        "malay_sentence": "\"Itu dia bakul pinang,\" Wak Pia berkata kepada suaminya.",
+        "english_sentence": "\"That is the pinang basket,\" Wak Pia said to her husband."
+    },
+    {
+        "semai": "eksiden",
+        "word_class": "kata nama",
+        "malay": "kemalangan;kecelakaan yang berlaku dengan tidak sengaja atau akibat kecuaian",
+        "english": "accident;an event that occurs accidentally or as a result of negligence",
+        "semai_sentence": "Wak Nia lekat kitrauma kibakek eksiden kerite kilanggar ha mutu ku idepan mat pegelap ajehnek.",
+        "malay_sentence": "Wak Mia masih mengalami trauma akibat menyaksikan kejadian kemalangan dimana sebuah kereta melanggar sebuah motosikal di hadapan matanya pada pagi tadi.",
+        "english_sentence": "Wak Mia is still traumatized due to witnessing an accident where a car collided with a motorcycle right in front of her this morning."
+    },
+    {
+        "semai": "embei",
+        "word_class": "kata keterangan",
+        "malay": "cukup",
+        "english": "enough",
+        "semai_sentence": "Amek jop kiurok nu Wak Tian, \"Embeileh, agok tambah. Eng dah behek.\"",
+        "malay_sentence": "Nenek berkata kepada Wak Tina, \"Cukup, jangan tambah lagi. Saya sudah kenyang.\"",
+        "english_sentence": "Grandmother said to Wak Tina, \"Enough, don't give me any more rice. I'm full.\""
+    },
+    {
+        "semai": "empag",
+        "word_class": "kata nama",
+        "malay": "mulut",
+        "english": "mouth",
+        "semai_sentence": "Wak Bibah ru igensir ubai en kenon ubai nu klinik medei as ku kateh iempag.",
+        "malay_sentence": "Wak Bibah dan suaminya membawa anak mereka ke klinik kerana terdapat bengkak di dalam mulut anak mereka tersebut.",
+        "english_sentence": "Wak Bibah and her husband took their child to the clinic because there is a swelling in his mouth."
+    },
+    {
+        "semai": "en",
+        "word_class": "kata kerja",
+        "malay": "membawa;membawa sesuatu dengan cara memegang, mengangkut, memikul, mendukung, atau menjunjung sesuatu dari satu tempat ke satu tempat yang lain",
+        "english": "to carry",
+        "semai_sentence": "Bah Mat kitulog en engleg arap-arap itenek de pai kijog ju kedei.",
+        "malay_sentence": "Bah Mat menolong bawa sebahagian dari barang-barang kakaknya yang baharu pulang dari kedai.",
+        "english_sentence": "Bah Mat helped to carry some of his sister's belongings which she had just brought back from the store."
+    },
+    {
+        "semai": "Februari",
+        "word_class": "kata nama",
+        "malay": "Februari;bulan kedua dalam setahun",
+        "english": "February;the second month of the year",
+        "semai_sentence": "Wak Tina ru Bah Alan baibekenah-gensir ku gecek Februari.",
+        "malay_sentence": "Wak Tina dan Bah Alan berkahwin pada bulan Februari.",
+        "english_sentence": "Wak Tina and Bah Alan got married in February."
+    },
+    {
+        "semai": "gabeng",
+        "word_class": "kata nama",
+        "malay": "tanah liat",
+        "english": "clay",
+        "semai_sentence": "Lei hunen mai naiui pasu naiguna gabeng.",
+        "malay_sentence": "Sehingga sekarang orang membuat pasu menggunakan tanah liat.",
+        "english_sentence": "Until now people make vases using clay."
+    },
+    {
+        "semai": "gadok",
+        "word_class": "kata kerja",
+        "malay": "mengetuk (kayu, dinding, tin dsb);memukul sesuatu dengan tangan, jari dsb",
+        "english": "to knock",
+        "semai_sentence": "Mengot neh renyah mai bigadok tong.",
+        "malay_sentence": "Malam tadi bunyi bising orang mengetuk tong.",
+        "english_sentence": "Last night was noisy with the sound of a person knocking on a barrel."
+    },
+    {
+        "semai": "gah",
+        "word_class": "kata nama",
+        "malay": "khabar;berita",
+        "english": "news",
+        "semai_sentence": "Ma igah?",
+        "malay_sentence": "Apa khabar?",
+        "english_sentence": "How are you?"
+    },
+    {
+        "semai": "galaj",
+        "word_class": "kata sifat",
+        "malay": "degil",
+        "english": "obstinate, stubborn;disobedient",
+        "semai_sentence": "Budak degil tidak ikut kata orang tua.",
+        "malay_sentence": "Sanget galaj tok kijoi engrok mai engrak",
+        "english_sentence": "The obstinate child didn't follow what the elders said."
+    },
+    {
+        "semai": "gamak",
+        "word_class": "kata keterangan",
+        "malay": "barangkali;mungkin;agak;teka;kira",
+        "english": "maybe;perhaps",
+        "semai_sentence": "\"Wak Mina kinyik gamak kistres ya ikerjak,\" iamek kipasal nu jik mase jisueg ilei ku hospitel.",
+        "malay_sentence": "\"Wak Mina menjadi sakit mungkin akibat tekanan kerja,\" ibunya memberitahu kami semasa kami menziarahinya di hospital.",
+        "english_sentence": "\"Wak Mina has become sick maybe because of work stress,\" her mother told us when we visited her at the hospital."
+    },
+    {
+        "semai": "haah",
+        "word_class": "kata sifat",
+        "malay": "ya",
+        "english": "yes",
+        "semai_sentence": "\"Mongka hek neh hakep kak?\" bitanya ya Wak Risan. \"Haah, mong nek memerip ikor taleh,\" engrok Wah Ika.",
+        "malay_sentence": "\"Kamu ada dapat ikan?\" Wak Risan bertanya. \"Ya, hanya ada beberapa ekor saja,\" Wak Ika menjawab.",
+        "english_sentence": "\"Did you catch any fish?\"  Wak Risan asked. \"Yes, only a few,\" Wak Ika replied."
+    },
+    {
+        "semai": "habar",
+        "word_class": "kata nama",
+        "malay": "khabar",
+        "english": "news",
+        "semai_sentence": "Ma ihabar engkek nek?",
+        "malay_sentence": "Kamu semua apa khabar?",
+        "english_sentence": "How are you all doing?"
+    },
+    {
+        "semai": "hadang",
+        "word_class": "kata kerja",
+        "malay": "menghalang;menahan supaya tidak dapat bergerak",
+        "english": "to block",
+        "semai_sentence": "Bah Peran kibesat nu eng, \"Nong nu Cameron Highland ya bihadang, biget joi ku arik adeh medei mong garaj. Kelemnek manik lebat lei mong jeoi garaj ku nong ajeh.\"",
+        "malay_sentence": "ng, tidak dibenarkan mengikuti jalan tersebut kerana terdapat tanah runtuh. Malan tadi hujan lebat sehingga ada banyak (kejadian) tanah runtuh di (sepanjang) jalan tersebut.\"",
+        "english_sentence": "Bah Peran gave advice to me, \"the road to Cameron Highlands has been blocked, that road cannot be used because there has been a landslide. Last night it rained heavily and lots of earth slid onto that road.\""
+    },
+    {
+        "semai": "hajap",
+        "word_class": "kata kerja",
+        "malay": "miskin;daif;papa kedana",
+        "english": "to be extremely poor;to be destitute",
+        "semai_sentence": "Bah Mat ajeh, hamapen kihajap tapi pek pernah kisengmanj nu mai.",
+        "malay_sentence": "Walaupun Bah Mat miskin, tetapi dia tidak pernah meminta-minta kepada orang lain.",
+        "english_sentence": "Even though Bah Mat is poor, he has never begged from other people."
+    },
+    {
+        "semai": "hama",
+        "word_class": "kata tanya",
+        "malay": "kenapa;mengapa;untuk menanyakan sebab untuk seseuatu perkara atau hal",
+        "english": "why",
+        "semai_sentence": "\"Hama hek jap?\" tenek eng kitanya.",
+        "malay_sentence": "\"Kenapa kamu menangis?\" abang saya bertanya.",
+        "english_sentence": "\"Why are you crying?\" my older brother asked."
+    },
+    {
+        "semai": "ije",
+        "word_class": "kata kerja",
+        "malay": "mengeja;menyebut dan menuliskan huruf secara berturutan dalam sesuatu perkataan",
+        "english": "to spell",
+        "semai_sentence": "Hamapen ilei ya derjah 3 tapi Bah Nua lekat pek kipanei beije, apetahlagi bebaca.",
+        "malay_sentence": "Walaupun sudah darjah 3 tetapi Bah Nua masih tidak tahu mengeja, apatah lagi membaca.",
+        "english_sentence": "Although he is already in 3rd grade, Bah Nua still does not know how to spell, let alone to read."
+    },
+    {
+        "semai": "ingak",
+        "word_class": "kata keterangan",
+        "malay": "pantas;lekas;cepat",
+        "english": "quick;fast;in a hurry",
+        "semai_sentence": "\"Cip ingak doh bidek ya bas,\" Wak Mas kibual nu ikawat.",
+        "malay_sentence": "\"Berjalanlah pantas, jika tidak nanti tertinggal bas,\" Wak Mas berkata kepada kawannya.",
+        "english_sentence": "\"Walk fast, if not, the bus will leave without us,\" Wak Mas told her friend"
+    },
+    {
+        "semai": "iranak",
+        "word_class": "kata seru",
+        "malay": "bos;pihak atasan",
+        "english": "boss",
+        "semai_sentence": "Keral ajeh iranak ku tempat adeh.",
+        "malay_sentence": "Lelaki itu bos di tempat ini.",
+        "english_sentence": "That man is the boss in this place"
+    },
+    {
+        "semai": "itam",
+        "word_class": "kata nama",
+        "malay": "anak ke-enam",
+        "english": "sixth child",
+        "semai_sentence": "Apak eng iitam ku kateh iberadek.",
+        "malay_sentence": "Ayah saya anak ke-enam dalam keluarganya.",
+        "english_sentence": "My father is the sixth child in his family."
+    },
+    {
+        "semai": "iyeu",
+        "word_class": "kata seru",
+        "malay": "bunyi kucing mengiau",
+        "english": "the sound of the cat",
+        "semai_sentence": "\"'Iyeu, iyeu,' kuceg eng kijap kisemanj caknak,\" Bah Man kiurok.",
+        "malay_sentence": "\"'Miau, miau,' kucing saya menangis meminta makanan,\" Bah Man berkata.",
+        "english_sentence": "\"'Meow, meow,' my cat cries for food,\" Bah Man said."
+    },
+    {
+        "semai": "jaben",
+        "word_class": "kata nama",
+        "malay": "beg",
+        "english": "bag",
+        "semai_sentence": "\"Ngtumpang isi butol teu eng adeh ku kateh jaben hek,\" Wak Mila kiurok nu Wak Nia.",
+        "malay_sentence": "\"Saya tumpang isi botol air saya di dalam bag kamu,\" Wak Mila memberitahu kepada Wak Nia.",
+        "english_sentence": "\"I put my water bottle in your bag,\" Wak Mila told Wak Nia."
+    },
+    {
+        "semai": "jag",
+        "word_class": "kata kerja",
+        "malay": "pijak;memijak;meletak, menekan kaki ke atas sesuatu",
+        "english": "to step on",
+        "semai_sentence": "\"Aduh! Nyaknik kijag jog eng,\" Wak Mira kikarau.",
+        "malay_sentence": "\"Aduh! Sakitnya dia pijak kaki saya,\" Wak Mira menjerit.",
+        "english_sentence": "\"Ouch! It hurts, she has stepped on my foot,\" Wak Mira shouted."
+    },
+    {
+        "semai": "jaj",
+        "word_class": "kata kerja",
+        "malay": "mencabut sesuatu sebagai rumput dengan tangan",
+        "english": "to pull something such as grass with hands",
+        "semai_sentence": "to pull something such as grass with handsWak Sila kijaj rumpot ku idepan deg.",
+        "malay_sentence": "Wak Sila mencabut rumput di depan rumahnya.",
+        "english_sentence": "Wak Sila pulled up the grass in front of her house with her hands."
+    },
+    {
+        "semai": "jajik",
+        "word_class": "kata kerja",
+        "malay": "baring;tidur tetapi tidak melelapkan mata",
+        "english": "to lie down;to recline",
+        "semai_sentence": "\"Eng jajik nok, gikdoh baru hicip,\" tenek eng kibual nu ikenah.",
+        "malay_sentence": "\"Saya baring sekejap, nanti barulah kita jalan,\" abang saya memberitahu kepada isterinya.",
+        "english_sentence": "\"I'll lie down for a bit, and then we'll go,\" my brother told his wife."
+    },
+    {
+        "semai": "jalek",
+        "word_class": "kata tanya",
+        "malay": "apa",
+        "english": "what",
+        "semai_sentence": "\"Diya!\" Wak Kurti kicereg. \"Jalek bihod?\" kibalas ya Wak Diya.",
+        "malay_sentence": "\"Diya!\" Wah Kurti memanggil. \"Mahu apa?\" Wak Diya menjawab.",
+        "english_sentence": "\"Diya!\" Wah Kurti called. \"What do you want?\" Wak Diya answered."
+    },
+    {
+        "semai": "jaman",
+        "word_class": "kata nama",
+        "malay": "zaman;jangka waktu yang lama",
+        "english": "age;times;particular period of time in history",
+        "semai_sentence": "Ku jaman hunen, ya susah hiha-bakek mai biguna kerite lembu.",
+        "malay_sentence": "Pada zaman sekarang, sudah semakin susah mahu kita melihat orang menggunakan kereta lembu.",
+        "english_sentence": "Nowadays, it is already more difficult for us to see people using a cart pulled by a cow."
+    },
+    {
+        "semai": "kaaj",
+        "word_class": "kata sifat",
+        "malay": "basah",
+        "english": "wet",
+        "semai_sentence": "Bah Sali kaaj biceh ya manik.",
+        "malay_sentence": "Bah Sali basah kerana dibasahi oleh hujan.",
+        "english_sentence": "Bah Sali was wet because he was drenched by the rain."
+    },
+    {
+        "semai": "kacoh",
+        "word_class": "kata nama",
+        "malay": "hulu sungai;sumber sungai;kepala air",
+        "english": "headwater;river source",
+        "semai_sentence": "Ju kacoh teu Gol ajeh mabek kek kak.",
+        "malay_sentence": "Dari hulu sungai itu, mereka yang mencari ikan.",
+        "english_sentence": "From the headwaters of the river, they are looking for fish."
+    },
+    {
+        "semai": "kagom",
+        "word_class": "kata sifat",
+        "malay": "kagum",
+        "english": "amazed",
+        "semai_sentence": "Bah Neri kagom ngneng sanget ajeh, hamapen kisanget tapi handal kimain piano.",
+        "malay_sentence": "Bah Neri kagum melihat kanak-kanak tersebut, walaupun dia masih kanak-kanak tetapi handal bermain piano.",
+        "english_sentence": "Bah Neri was amazed to see the child, even though he was still a child, he played the piano skilfully."
+    },
+    {
+        "semai": "kajeg",
+        "word_class": "kata sifat",
+        "malay": "kecil",
+        "english": "small",
+        "semai_sentence": "Pelek sempak Bah Meran ajeh ihad kajeg, tapi irasa ihad isendap.",
+        "malay_sentence": "Buah durian kepunyaan Bah Meran itu sangat kecil, tetapi rasanya sangat sedap.",
+        "english_sentence": "The durian fruit belonging to Bah Meran is very small, but it tastes very good."
+    },
+    {
+        "semai": "kancel",
+        "word_class": "kata nama",
+        "malay": "kancil",
+        "english": "mousedeer",
+        "semai_sentence": "Kancel hunen hajap haburu mendei ya kaha-pupos.",
+        "malay_sentence": "Kancil sekarang susah mahu dijumpai kerana sudah hampir pupus.",
+        "english_sentence": "Now the mousedeer is hard to find because it is almost extinct."
+    },
+    {
+        "semai": "laaj",
+        "word_class": "kata sifat",
+        "malay": "becak",
+        "english": "muddy",
+        "semai_sentence": "\"Begeiharok hiha-main bula, ipadag laaj?\" Bah Hamdan kiurok nu jik.",
+        "malay_sentence": "\"Bagaimana kita hendak bermain bola, padangnya becak?\" Bah Hamdan berkata kepada kami.",
+        "english_sentence": "\"How are we going to play football, when the field is muddy?\" Bah Hamdan asked us."
+    },
+    {
+        "semai": "laen",
+        "word_class": "kata sifat",
+        "malay": "lain",
+        "english": "other;different",
+        "semai_sentence": "\"Hek adeh tok joi engrok, laen de ngor laen de habeh,\" kibual ya apak nu eng.",
+        "malay_sentence": "\"Kamu ni tidak ikut cakap, lain yang disuruh lain yang kamu buat,\" kata bapa kepada saya.",
+        "english_sentence": "\"You are not following what was said;you did something different from what you were instructed,\" father said to me."
+    },
+    {
+        "semai": "laj",
+        "word_class": "kata sifat",
+        "malay": "bersih",
+        "english": "clean;washed off;to come off",
+        "semai_sentence": "\"Suj pingat lihek ajeh lei laj,\" amek kiurok nu menang eng",
+        "malay_sentence": "\"Cuci pinggan kamu itu sehingga bersih,\" ibu berkata kepada adik saya.",
+        "english_sentence": "\"Wash your dish until it is clean,\" my mother said to my sister."
+    },
+    {
+        "semai": "lalei",
+        "word_class": "kata sifat",
+        "malay": "lalai;cuai",
+        "english": "careless",
+        "semai_sentence": "\"Hek abor en mutu, agok lalei,\" amek kibesat ha tenek keral eng",
+        "malay_sentence": "\"Hati-hati semasa membonceng motosikal, jangan cuai,\" ibu menasihati abang saya.",
+        "english_sentence": "\"Be careful when riding a motorcycle, do not be careless,\" my mother advised my brother."
+    },
+    {
+        "semai": "lamat",
+        "word_class": "kata sifat",
+        "malay": "lambat;lewat",
+        "english": "tardy;late",
+        "semai_sentence": "Bah Jali lamat kihol nu kerjak medei manik lei tengah arik.",
+        "malay_sentence": "Bah Jali lambat hadir ke tempat kerja kerana hujan sehingga tengah hari.",
+        "english_sentence": "Bah Jali was late for work because it rained until noon."
+    },
+    {
+        "semai": "ma",
+        "word_class": "kata tanya",
+        "malay": "apa",
+        "english": "what",
+        "semai_sentence": "Ma igah?",
+        "malay_sentence": "Apa khabar?",
+        "english_sentence": "How are you? (lit. What is the news?)"
+    },
+    {
+        "semai": "mabek",
+        "word_class": "kata ganti nama",
+        "malay": "golongan",
+        "english": "group",
+        "semai_sentence": "Tugas mabek keral, bior terbor kak, pog ru sayo. Tugas mabek kerdor, bior berencet. Tugas mabek bujang, bior siksuj.",
+        "malay_sentence": "Tugas lelaki menyiang ikan, ayam, sayur. Tugas perempuan memasak. Tugas bujang mencuci.",
+        "english_sentence": "The men clean fish, chicken, vegetables. The women cook. The unmarried wash all utensils."
+    },
+    {
+        "semai": "majeh",
+        "word_class": "kata keterangan",
+        "malay": "ke situ",
+        "english": "(to) there;to that place",
+        "semai_sentence": "\"Jeg mutu hek adeh nu majeh, eng ngha-pes sampah ku padeh,\" amek kiurok nu tenek eng.",
+        "malay_sentence": "\"Pindahkan motosikal kamu ke situ, saya mahu menyapu sampah (yang ada) di sini,\" ibu berkata kepada abang saya.",
+        "english_sentence": "\"Move your motorcycle over there, I want to sweep up the rabbish (which is) here,\" my mother said to my brother."
+    },
+    {
+        "semai": "maken",
+        "word_class": "kata sifat",
+        "malay": "semakin;kian",
+        "english": "getting more;progressively",
+        "semai_sentence": "Bunga de ngcet ajeh gumakin entoi.",
+        "malay_sentence": "Bunga yang saya tanam itu semakin membesar.",
+        "english_sentence": "The flowers I planted are getting bigger."
+    },
+    {
+        "semai": "makne",
+        "word_class": "kata nama",
+        "malay": "makna;erti;maksud",
+        "english": "meaning",
+        "semai_sentence": "Bah Sarul pek kipanei makne de biajar ya icikgu ajeh neh.",
+        "malay_sentence": "Bah Sarul tidak tahu maksud yang diajar oleh cikgu tadi.",
+        "english_sentence": "Bah Sarul did not understand the meaning taught by the teacher just now."
+    },
+    {
+        "semai": "naas",
+        "word_class": "kata nama",
+        "malay": "nahas;kemalangan",
+        "english": "accident",
+        "semai_sentence": "Ubai Bah Benny naas ku nong timbok cinek.",
+        "malay_sentence": "Bah Benny dan rakannya nahas di jalan raya sebentar tadi.",
+        "english_sentence": "Bah Benny and his friend crashed on the road just now."
+    },
+    {
+        "semai": "nam",
+        "word_class": "kata kerja",
+        "malay": "mendidih;menggelegak",
+        "english": "to boil",
+        "semai_sentence": "“Teu ku cirek ajeh ya nam,” Bah Jali kipasal…",
+        "malay_sentence": "“Air dalam cerek itu sudah mendidih,” kata Bah Jali.",
+        "english_sentence": "“The water in the kettle is already boiling,” Bah Jali said."
+    },
+    {
+        "semai": "nar",
+        "word_class": "kata bilangan",
+        "malay": "dua",
+        "english": "two",
+        "semai_sentence": "Mong nar urag sengoi dat bikap ya mergas…",
+        "malay_sentence": "Terdapat dua orang mati dibaham harimau di hutan hari ini.",
+        "english_sentence": "Two people were devoured by tigers in the forest today."
+    },
+    {
+        "semai": "naseb",
+        "word_class": "kata nama",
+        "malay": "nasib;mujur",
+        "english": "luck;fortune",
+        "semai_sentence": "“Naseb mong hek halalu ku padeh, amen tok mesti jisusah,” Bah Wan de…",
+        "malay_sentence": "“Mujur kamu melalui jalan ini, kalau tidak kami mesti susah,” kata Bah Wan.",
+        "english_sentence": "“Fortunately you used this road too, otherwise we’d be in trouble,” said Bah Wan."
+    },
+    {
+        "semai": "nyiknyok",
+        "word_class": "kata nafi",
+        "malay": "bukan",
+        "english": "not;not that",
+        "semai_sentence": "\"Bob adeh nyiknyok pek ha eng, tapi bidek ku kemil mije eng,\" Wak Bedah kiurok.",
+        "malay_sentence": "\"Buku ini bukan saya punya, tetapi diletakkan di atas meja saya,\" Wak Bedah berkata.",
+        "english_sentence": "\"This book is not mine, but it was placed on my desk,\" Wak Bedah said."
+    },
+    {
+        "semai": "oh",
+        "word_class": "kata keterangan",
+        "malay": "entah",
+        "english": "I don’t know;perhaps;maybe",
+        "semai_sentence": "\"Oh,\" Bah Gurek kiberlag bile bitanya belok imemenang ya iamek.",
+        "malay_sentence": "\"Entah,\" jawab Bah Gurek bila ibunya bertanya ke mana adik-adiknya pergi.",
+        "english_sentence": "\"I don’t know,\" Bah Gurek replied when his mother asked where his siblings had gone."
+    },
+    {
+        "semai": "or",
+        "word_class": "kata kerja",
+        "malay": "menyuruh",
+        "english": "to order;to command",
+        "semai_sentence": "Bah Hussin kior ianak buah kot bantal.",
+        "malay_sentence": "Bah Husin menyuruh anak buahnya mengambil bantal.",
+        "english_sentence": "Bah Husin ordered his nephew to take a pillow."
+    },
+    {
+        "semai": "os",
+        "word_class": "kata nama",
+        "malay": "api",
+        "english": "fire",
+        "semai_sentence": "Bah Midin kirup os ku deg pender mandei kaha-jop gale.",
+        "malay_sentence": "Bah Midin menyalakan api di pondok untuk membakar ubi kayu.",
+        "english_sentence": "Bah Midin lit a fire in the hut to roast tapioca."
+    },
+    {
+        "semai": "pacok",
+        "word_class": "kata kerja",
+        "malay": "menebuk;membuka sesuatu dengan benda tajam",
+        "english": "to puncture",
+        "semai_sentence": "Wak Nani kipacok tong susu ajeh medei kaha-beh teh ha iapak.",
+        "malay_sentence": "Wak Nani menebuk tin susu kerana mahu membuat teh untuk bapanya.",
+        "english_sentence": "Wak Nani punctured the condensed milk can because she wanted to make tea for her father."
+    },
+    {
+        "semai": "padag",
+        "word_class": "kata nama",
+        "malay": "padang",
+        "english": "field",
+        "semai_sentence": "Mai sanget sekulah naimain bula ku padag.",
+        "malay_sentence": "Budak-budak sekolah bermain bola sepak di padang.",
+        "english_sentence": "School children play football on the field."
+    },
+    {
+        "semai": "pael",
+        "word_class": "kata nama",
+        "malay": "fail",
+        "english": "file",
+        "semai_sentence": "Wak Sila kidek dikdij isijel de penteng ku kateh pael dea pek nyep.",
+        "malay_sentence": "Wak Sila menyimpan sijil penting di dalam fail.",
+        "english_sentence": "Wak Sila keeps her important certificates in a file."
+    },
+    {
+        "semai": "pai",
+        "word_class": "kata sifat",
+        "malay": "baharu",
+        "english": "new",
+        "semai_sentence": "Bah Tam kibeli deg pai.",
+        "malay_sentence": "Bah Tam membeli rumah baharu.",
+        "english_sentence": "Bah Tam bought a new house."
+    },
+    {
+        "semai": "perdat",
+        "word_class": "kata kerja",
+        "malay": "membunuh;mematikan;mengambil nyawa seseorang atau sesuatu",
+        "english": "to kill",
+        "semai_sentence": "Bah Jali kiperdat pelep de kikap ha ijog ru yoj.",
+        "malay_sentence": "Bah Jali membunuh pacat yang menggigit kakinya dengan pisau.",
+        "english_sentence": "Bah Jali killed the leach that bit his leg with a knife."
+    },
+    {
+        "semai": "rabe",
+        "word_class": "Kata nama",
+        "malay": "pemadam pensil",
+        "english": "pencil eraser",
+        "semai_sentence": "“Mongka rabe hek? Eng ngha-pinjam,” Bah Piul kisemanj nu Bah Jani.",
+        "malay_sentence": "“Ada pemadam? Saya mahu pinjam,” kata Bah Piul kepada Bah Jani.",
+        "english_sentence": "“Do you have an eraser? I want to borrow it,” Bah Piul said to Bah Jani."
+    },
+    {
+        "semai": "ragik",
+        "word_class": "Kata nama",
+        "malay": "corak",
+        "english": "pattern",
+        "semai_sentence": "“Borle ragi seluar hek adeh, ngminat ngneng,” Wak Ria kitanya.",
+        "malay_sentence": "“Cantik corak seluar kamu, saya suka,” kata Wak Ria.",
+        "english_sentence": "“The pattern on your trousers is beautiful, I like it,” Wak Ria said."
+    },
+    {
+        "semai": "raha",
+        "word_class": "Kata hubung",
+        "malay": "seperti",
+        "english": "as if;like",
+        "semai_sentence": "“Agok siyet tebal raha ajeh, doh lingah kaha-masak,” amek kipasal.",
+        "malay_sentence": "“Jangan potong seperti itu, nanti lambat masak,” kata ibu.",
+        "english_sentence": "“Do not cut like that, it will take longer to cook,” said mother."
+    },
+    {
+        "semai": "rajet",
+        "word_class": "Kata sifat",
+        "malay": "rajin",
+        "english": "diligent;hard-working",
+        "semai_sentence": "Wak Maira ajeh rajet kitulog iamek beh kerjak deg.",
+        "malay_sentence": "Wak Maira rajin tolong ibunya buat kerja rumah.",
+        "english_sentence": "Wak Maira diligently helped her mother with housework."
+    },
+    {
+        "semai": "rak",
+        "word_class": "Kata sifat",
+        "malay": "tua;lama",
+        "english": "old",
+        "semai_sentence": "Bah Wan ubai betedeh ku deg rak mase jis manik.",
+        "malay_sentence": "Bah Wan berteduh di rumah lama yang ditinggalkan ketika hujan.",
+        "english_sentence": "Bah Wan took shelter in an old abandoned house during rain."
+    },
+    {
+        "semai": "tabeg",
+        "word_class": "Kata nama",
+        "malay": "katak",
+        "english": "frog",
+        "semai_sentence": "Mabek sanget keral manah entem naigemar kek tabeg.",
+        "malay_sentence": "Budak lelaki pada zaman dulu suka mencari katak.",
+        "english_sentence": "Boys in the old days liked to search for frogs."
+    },
+    {
+        "semai": "tacik",
+        "word_class": "Kata nama",
+        "malay": "jentera pengorek",
+        "english": "excavator",
+        "semai_sentence": "Mong tacik ku beg teu tengah kikurek paser.",
+        "malay_sentence": "Ada jentera pengorek di tepi sungai mengorek pasir.",
+        "english_sentence": "There is an excavator by the river digging sand."
+    },
+    {
+        "semai": "tageh",
+        "word_class": "Kata kerja",
+        "malay": "ketagih",
+        "english": "addicted",
+        "semai_sentence": "Bah Kulop ya kitageh ngut teu bel.",
+        "malay_sentence": "Bah Kulop sudah ketagih minum arak.",
+        "english_sentence": "Bah Kulop is addicted to alcohol."
+    },
+    {
+        "semai": "tahut",
+        "word_class": "Kata nama",
+        "malay": "tahun",
+        "english": "year",
+        "semai_sentence": "Ya nutahut tenek eng pek kijog nu kampug.",
+        "malay_sentence": "Sudah setahun kakak saya tak balik kampung.",
+        "english_sentence": "It’s been a year since my sister went back to the village."
+    },
+    {
+        "semai": "tajap",
+        "word_class": "Kata sifat",
+        "malay": "tajam",
+        "english": "sharp",
+        "semai_sentence": "Apak eng kicis cahuk isabet atajap.",
+        "malay_sentence": "Bapa saya mengasah sabit hingga tajam.",
+        "english_sentence": "My father sharpened the sickle until it was sharp."
+    },
+    {
+        "semai": "uda",
+        "word_class": "Kata nama",
+        "malay": "Anak ke-empat;panggilan utk anak ke-empat",
+        "english": "Fourth child",
+        "semai_sentence": "Eng iude ku kateh beradek eng.",
+        "malay_sentence": "Saya anak ke-empat dalam keluarga.",
+        "english_sentence": "I am the fourth child in my family."
+    },
+    {
+        "semai": "ugame",
+        "word_class": "Kata nama",
+        "malay": "Agama",
+        "english": "Religion",
+        "semai_sentence": "Agame Islam ajeh suok bagi sengoi ku kampug jik.",
+        "malay_sentence": "Agama Islam adalah pegangan utama orang kampung ini.",
+        "english_sentence": "Islam is the main religion of the people in this village."
+    },
+    {
+        "semai": "uker",
+        "word_class": "Kata kerja",
+        "malay": "Ukir, gores",
+        "english": "To carve, engrave",
+        "semai_sentence": "Bah Wan kiuker imuh ku keneng jehuk mase jitengroj.",
+        "malay_sentence": "Bah Wan mengukir namanya di batang pokok semasa memancing.",
+        "english_sentence": "Bah Wan carved his name on the tree trunk while fishing."
+    },
+    {
+        "semai": "umbak",
+        "word_class": "Kata nama",
+        "malay": "Ombak",
+        "english": "Wave",
+        "semai_sentence": "Lekat ngmain umbak ku pantei, jik jirasa serunuk.",
+        "malay_sentence": "Kami bermain ombak di pantai, terasa seronok.",
+        "english_sentence": "We played with the waves at the beach, it was fun."
+    },
+    {
+        "semai": "ungngu",
+        "word_class": "Kata nama",
+        "malay": "Ungu (warna)",
+        "english": "Purple",
+        "semai_sentence": "Bah Sali kigemar leklog baju ungngu.",
+        "malay_sentence": "Bah Sali suka memakai baju ungu.",
+        "english_sentence": "Bah Sali likes to wear purple clothes."
+    },
+    {
+        "semai": "wajeb",
+        "word_class": "Kata sifat / nama",
+        "malay": "Wajib;kewajiban",
+        "english": "Compulsory;obligation",
+        "semai_sentence": "Solat ajeh wajeb bagi sengoi Islam.",
+        "malay_sentence": "Solat adalah kewajiban bagi orang Islam.",
+        "english_sentence": "Prayer is compulsory for Muslims."
+    },
+    {
+        "semai": "wak",
+        "word_class": "Kata nama",
+        "malay": "Makcik",
+        "english": "Aunt",
+        "semai_sentence": "Wak eng pai kibegensir ru mai ju Ulu Kampar.",
+        "malay_sentence": "Makcik saya baru berkahwin dengan orang Ulu Kampar.",
+        "english_sentence": "My aunt just got married to a man from Ulu Kampar."
+    },
+    {
+        "semai": "wal",
+        "word_class": "Kata nama",
+        "malay": "Dapur",
+        "english": "Stove",
+        "semai_sentence": "Rumah bujang ajeh walah wal, medei tiap ari de makan ku kedai.",
+        "malay_sentence": "Rumah bujang itu tiada dapur, jadi mereka makan di kedai.",
+        "english_sentence": "The bachelors’ home had no stove, so they ate at restaurants."
+    },
+    {
+        "semai": "was",
+        "word_class": "Kata nama",
+        "malay": "Kawasan",
+        "english": "Area",
+        "semai_sentence": "Eng kineng ular sawa ku was bunga raya.",
+        "malay_sentence": "Saya nampak ular sawa di kawasan bunga raya.",
+        "english_sentence": "I saw a python in the hibiscus area."
+    },
+    {
+        "semai": "weg",
+        "word_class": "Kata kerja",
+        "malay": "Membengkokkan",
+        "english": "To bend",
+        "semai_sentence": "Bah Jali kiweg dawei jadi penyangkut baju.",
+        "malay_sentence": "Bah Jali membengkokkan dawai untuk buat penyangkut baju.",
+        "english_sentence": "Bah Jali bent a wire to make a hanger."
+    },
+    {
+        "semai": "yaken",
+        "word_class": "Kata kerja",
+        "malay": "yakin;percaya betul-betul",
+        "english": "to be confident;to be certain",
+        "semai_sentence": "Wak Nani pek kiyaken buleh kilulos ujian lesen memandu.",
+        "malay_sentence": "Wak Nani tidak yakin boleh lulus lesen memandu.",
+        "english_sentence": "Wak Nani was not confident she could pass the driving test."
+    },
+    {
+        "semai": "yama",
+        "word_class": "Kata tanya",
+        "malay": "mengapa;kenapa",
+        "english": "why",
+        "semai_sentence": "Cekgu kitanya nu Bah Deran, \"Yama hek pek hahol nu sekulah kelemnek?\"",
+        "malay_sentence": "Cikgu tanya Bah Deran, \"Kenapa awak tak datang sekolah semalam?\"",
+        "english_sentence": "The teacher asked Bah Deran, \"Why didn’t you come to school yesterday?\""
+    },
+    {
+        "semai": "yap",
+        "word_class": "Kata kerja",
+        "malay": "cakap;beritahu",
+        "english": "to speak;inform",
+        "semai_sentence": "Amek kiurok, \"Yap nu eng, bok de cereh pasu bunga eng?\"",
+        "malay_sentence": "Ibu berkata, \"Beritahu saya, siapa pecahkan pasu bunga saya?\"",
+        "english_sentence": "Mother said, \"Tell me, who broke my flower pot?\""
+    },
+    {
+        "semai": "yek",
+        "word_class": "Kata sifat",
+        "malay": "gila;hilang akal",
+        "english": "crazy;insane",
+        "semai_sentence": "Mai yek ajeh kimengamok sampei kek kiterok …",
+        "malay_sentence": "Orang gila itu mengamuk mengejar orang kampung.",
+        "english_sentence": "The insane man went on a rampage chasing villagers."
+    },
+    {
+        "semai": "yog",
+        "word_class": "Kata kerja",
+        "malay": "jatuh;gugur",
+        "english": "fall;collapse",
+        "semai_sentence": "Bah Ajis kiyog ju imutu kelem jihnek …",
+        "malay_sentence": "Bah Ajis jatuh dari motosikal sebab langgar anjing.",
+        "english_sentence": "Bah Ajis fell from his motorbike because he hit a dog."
+    },
+    {
+        "semai": "zamrud",
+        "word_class": "Kata nama",
+        "malay": "Zamrud;permata hijau",
+        "english": "Emerald",
+        "semai_sentence": "Bah kain nu ada batu zamrud.",
+        "malay_sentence": "Kalung itu ada batu zamrud.",
+        "english_sentence": "The necklace has an emerald."
+    },
+    {
+        "semai": "zinah",
+        "word_class": "Kata nama",
+        "malay": "Zina",
+        "english": "Adultery",
+        "semai_sentence": "Zinah tai ngeng hukom adat.",
+        "malay_sentence": "Zina dilarang oleh hukum adat.",
+        "english_sentence": "Adultery is forbidden by customary law."
+    },
+    {
+        "semai": "zirafah",
+        "word_class": "Kata nama",
+        "malay": "Zirafah",
+        "english": "Giraffe",
+        "semai_sentence": "Anak-anak suka nengok zirafah nu zu.",
+        "malay_sentence": "Kanak-kanak suka tengok zirafah di zoo.",
+        "english_sentence": "Children like to see giraffes at the zoo."
+    },
+    {
+        "semai": "zu",
+        "word_class": "Kata nama",
+        "malay": "Zoo;taman haiwan",
+        "english": "Zoo",
+        "semai_sentence": "Mase cuti sekulah, eng ru peringak eng jiet melawat nu zu.",
+        "malay_sentence": "Semasa cuti sekolah, saya dan keluarga pergi melawat ke zoo.",
+        "english_sentence": "During school holidays, my family and I went to visit the zoo."
+    }
+]
