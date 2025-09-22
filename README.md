@@ -10,8 +10,8 @@ This is a Hackathon Project (group: SATRIA).
 ## Files Structure
 - `/lambda-functions/` - All backend Lambda codes
 - `/frontend/` - User interface files  
-- `/aws-configurations/` - Infrastructure as JSON
-- `/dataset/` - Translation data
+- `/aws-configurations/` - Infrastructure
+- `/datasets/` - Translation data
 
 ## Setup
 
