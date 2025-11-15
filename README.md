@@ -1,6 +1,6 @@
 # semai-language-bot
 A chatbot that translates between Semai, Malay, and English using AWS Console.
-This is a Hackathon Project (group: SATRIA).
+This is an AWS Hackathon Project (Group: SATRIA).
 
 ## Architecture
 - Frontend: HTML + API Gateway + Cloudfront
