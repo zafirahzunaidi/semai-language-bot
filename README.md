@@ -13,5 +13,4 @@ This is a Hackathon Project (group: SATRIA).
 - `/aws-configurations/` - Infrastructure
 - `/datasets/` - Translation data
 
-## Setup
 
