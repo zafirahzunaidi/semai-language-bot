@@ -33,7 +33,8 @@ We developed **SemAI Bot**, an interactive chatbot that allows users to:
 
 ## ⚙️ System Architecture
 
-Based on our system design (see presentation, page 5–6 ), the architecture follows a serverless AI pipeline:
+Based on our system design, the architecture follows a serverless AI pipeline:
+<img src="images/architecture.png" width="700">
 
 1. User interacts via web interface
 2. Request sent through API Gateway
@@ -42,6 +43,7 @@ Based on our system design (see presentation, page 5–6 ), the architecture fol
 5. Amazon Bedrock generates contextual responses
 6. Amazon S3 stores language datasets
 7. Amazon Polly provides speech output
+   
 
 ---
 
@@ -55,6 +57,7 @@ Based on our system design (see presentation, page 5–6 ), the architecture fol
 * **Amazon S3** → dataset storage
 * **Amazon CloudFront** → frontend delivery
 * **Amazon Polly** → text-to-speech
+ 
 
 ### 💻 Development
 
@@ -154,10 +157,10 @@ Built during an AWS Hackathon under time constraints, focusing on:
 
 ---
 
-## 📄 Presentation
 
-Full project presentation:
-👉 
+## 🎥 Demo Video
+
+[![Watch Demo](https://img.youtube.com/vi/HopxmvpyKf8/0.jpg)](https://www.youtube.com/watch?v=HopxmvpyKf8)
 
 ---
 
