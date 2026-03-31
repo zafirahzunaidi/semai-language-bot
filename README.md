@@ -98,6 +98,14 @@ Supports translation between:
 
 ---
 
+
+## 🎥 Demo Video
+
+[![Watch Demo](https://img.youtube.com/vi/HopxmvpyKf8/0.jpg)](https://www.youtube.com/watch?v=HopxmvpyKf8)
+
+
+---
+
 ## 🌍 Impact
 
 ### 👥 Community
@@ -125,6 +133,7 @@ Supports translation between:
 /frontend/ → chatbot UI  
 /lambda-functions/ → backend logic  
 ```
+
 
 ---
 
@@ -154,12 +163,6 @@ Built during an AWS Hackathon under time constraints, focusing on:
 * Improve translation accuracy with larger datasets
 * Integrate mobile application
 
----
-
-
-## 🎥 Demo Video
-
-[![Watch Demo](https://img.youtube.com/vi/HopxmvpyKf8/0.jpg)](https://www.youtube.com/watch?v=HopxmvpyKf8)
 
 ---
 
