@@ -42,7 +42,6 @@ Based on our system design, the architecture follows a serverless AI pipeline:
 4. Amazon Lex handles intent recognition
 5. Amazon Bedrock generates contextual responses
 6. Amazon S3 stores language datasets
-7. Amazon Polly provides speech output
    
 
 ---
