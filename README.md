@@ -78,12 +78,6 @@ Supports translation between:
 
 
 
-### 🔊 Voice Output
-
-* Uses Amazon Polly for pronunciation
-* Enhances language learning experience
-
-
 ### 📚 Cultural Storytelling
 
 * Retrieves Semai folklore from dataset
@@ -159,6 +153,7 @@ Built during an AWS Hackathon under time constraints, focusing on:
 ## 🚀 Future Improvements
 
 * Add speech-to-text for voice input
+* Integrate Amazon Polly for voice output pronounciation
 * Expand to more Orang Asli languages
 * Improve translation accuracy with larger datasets
 * Integrate mobile application
