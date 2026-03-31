@@ -76,21 +76,20 @@ Supports translation between:
 * Malay
 * English
 
----
+
 
 ### 🔊 Voice Output
 
 * Uses Amazon Polly for pronunciation
 * Enhances language learning experience
 
----
 
 ### 📚 Cultural Storytelling
 
 * Retrieves Semai folklore from dataset
 * Enhances responses using generative AI
 
----
+
 
 ### 🤖 AI-Powered Conversations
 
