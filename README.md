@@ -4,7 +4,7 @@
 
 SemAI Bot is an AI-powered chatbot designed to preserve and promote the Semai language, an endangered Orang Asli language in Malaysia.
 
-This project was developed during an AWS Hackathon, combining conversational AI, cloud computing, and generative AI to create an accessible platform for language learning and cultural exploration.
+This project was developed during an AWS Hackathon, combining conversational AI, cloud computing, and generative AI to create an accessible platform for language learning and cultural exploration. (Group: SATRIA)
 
 ---
 
