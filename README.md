@@ -25,8 +25,7 @@ As highlighted in our research, language loss represents not only disappearing w
 We developed **SemAI Bot**, an interactive chatbot that allows users to:
 
 * Translate between Semai, Malay, and English
-* Learn pronunciation using AI-generated speech
-* Explore cultural stories and folklore
+* Explore Orang Asli cultural stories and folklore
 * Interact through a natural conversational interface
 
 ---
