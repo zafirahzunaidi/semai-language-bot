@@ -131,6 +131,7 @@ Supports translation between:
 
 ## 👩‍💻 My Contribution
 
+* Focused on the backend of the system
 * Developed chatbot logic using AWS Lambda
 * Integrated Amazon Lex and Bedrock
 * Designed chatbot interaction flow
